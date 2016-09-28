@@ -1,2 +1,2 @@
-# Ghunegaar-Random-Tweet-Generator
+# Tweet-Generator
 Generates a random Ghunegaar joke.
